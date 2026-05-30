@@ -1,0 +1,1794 @@
+[
+  {
+    "id": 1,
+    "name": "D. Kruszyn (Dol) 1",
+    "address": "ul.Granltowa 15,59-700 Kruszyn",
+    "managerPhone": "885-396-659",
+    "deputyPhone": "885-396-660"
+  },
+  {
+    "id": 2,
+    "name": "D. Lubin 3",
+    "address": "ul. Hutnicza 6A, 59-300 Lubin",
+    "managerPhone": "785-360-256",
+    "deputyPhone": "785-360-257"
+  },
+  {
+    "id": 3,
+    "name": "D. Lubin",
+    "address": "ul. Klonowa 28,59-300 Lubin",
+    "managerPhone": "885-385-779",
+    "deputyPhone": "885-385-780"
+  },
+  {
+    "id": 4,
+    "name": "D. Lubin 6",
+    "address": "Al. Generała Broni Stanisława Maczka 2, 59-300 Lubin",
+    "managerPhone": "785-380-540",
+    "deputyPhone": "785-380-570"
+  },
+  {
+    "id": 5,
+    "name": "D. Obora 1",
+    "address": "ul. Lubińska 48A, 59-335 Obora",
+    "managerPhone": "887-230-930",
+    "deputyPhone": "887-230-932"
+  },
+  {
+    "id": 6,
+    "name": "D. Parchów",
+    "address": "Parchów 106G, 59-140 Parchów",
+    "managerPhone": "785-395-861",
+    "deputyPhone": "785-396-006"
+  },
+  {
+    "id": 7,
+    "name": "D. Polkowice 1",
+    "address": "ul. Kolejowa 23A, 59-100 Polkowice",
+    "managerPhone": "785-239-432",
+    "deputyPhone": "785-239-437"
+  },
+  {
+    "id": 8,
+    "name": "D. Polkowice 2",
+    "address": "ul. Chocianowska 125,59-100 Polkowice",
+    "managerPhone": "786-117622",
+    "deputyPhone": "786418-993"
+  },
+  {
+    "id": 9,
+    "name": "D. Szklary Górne 1",
+    "address": "Szklary Górne 501, 59-335 Szklary Górne",
+    "managerPhone": "501-628-594",
+    "deputyPhone": "507-445-255"
+  },
+  {
+    "id": 10,
+    "name": "D. Trzebień 1",
+    "address": "ul. Bolesławiecka 35A, 59-700 Bolesławiec",
+    "managerPhone": "785-299-621",
+    "deputyPhone": "785-299-622"
+  },
+  {
+    "id": 11,
+    "name": "D. Bytom Odrzański 1",
+    "address": "ul. Słoneczna 2,67-115 Bytom Odrzańskl",
+    "managerPhone": "785-380-012",
+    "deputyPhone": "785-380-198"
+  },
+  {
+    "id": 12,
+    "name": "D. Bytom Odrzański 2",
+    "address": "ul. Sadowa 3, 67415 Bytom Odrzański",
+    "managerPhone": "785-372-232",
+    "deputyPhone": "785-372-237"
+  },
+  {
+    "id": 13,
+    "name": "D. Gaworzyce 1",
+    "address": "ul. Główna 115A, 59-180 Gaworzyce",
+    "managerPhone": "695-232-509",
+    "deputyPhone": "695-232-760"
+  },
+  {
+    "id": 14,
+    "name": "D. Głogów 4",
+    "address": "ul. Marszalka Józefa Piłsudskiego 6,67-200 Głogów",
+    "managerPhone": "786-115-633",
+    "deputyPhone": "786-115-641"
+  },
+  {
+    "id": 15,
+    "name": "D. Modrzyca ",
+    "address": "ul. Handlowa 2,67-106 Modrzyca/Otyń",
+    "managerPhone": "517-209-462",
+    "deputyPhone": "517-209438"
+  },
+  {
+    "id": 16,
+    "name": "D. Nielubia 1",
+    "address": "Nielubia 11, 67-231 Nielubia",
+    "managerPhone": "607-264-697",
+    "deputyPhone": "607-264-921"
+  },
+  {
+    "id": 17,
+    "name": "D. Nowa Sól 1",
+    "address": "ul. Makowa 7,67-100 Nowa 561",
+    "managerPhone": "695-267-303",
+    "deputyPhone": "695-268-208"
+  },
+  {
+    "id": 18,
+    "name": "D. Nowa Sól 2",
+    "address": "ul. Połudnłowa 23, 67-100 Nowa Sól",
+    "managerPhone": "785-234-844",
+    "deputyPhone": "785-235-153"
+  },
+  {
+    "id": 19,
+    "name": "D. Nowa Sól 3",
+    "address": "ul Kardynała Stefana Wyszyńskiego 4,67-100 Nowa Sól",
+    "managerPhone": "785-342-028",
+    "deputyPhone": "785-342-163"
+  },
+  {
+    "id": 20,
+    "name": "D. Nowa Sól 4",
+    "address": "ul. Zielonogórska 630, 67-100 Nowa Sól",
+    "managerPhone": "786-120-317",
+    "deputyPhone": "786-120-154"
+  },
+  {
+    "id": 21,
+    "name": "D. Nowa Sól 5",
+    "address": "Osiedle im. Armii Krajowej 8, 67-100 Nowa Sól",
+    "managerPhone": "786-115-243",
+    "deputyPhone": "786-115-937"
+  },
+  {
+    "id": 22,
+    "name": "D. Otyń 1",
+    "address": "ul. Kościuszki 351, 67-106 Otyń",
+    "managerPhone": "785-291-852",
+    "deputyPhone": "785-291-899"
+  },
+  {
+    "id": 23,
+    "name": "D. Przyborów (Nowosolski) 1",
+    "address": "ul. Nowosolska 738,67-100 Nowa Sól,",
+    "managerPhone": "885-396-263",
+    "deputyPhone": "885-396-264"
+  },
+  {
+    "id": 24,
+    "name": "D. Ruszowice",
+    "address": "ul Biała 15,67-210 Ruszowice",
+    "managerPhone": "785-436-851",
+    "deputyPhone": "785437-376"
+  },
+  {
+    "id": 25,
+    "name": "D. Siedlisko 1",
+    "address": "ul. Głogowska 351, 67-112 Siedlisko",
+    "managerPhone": "665-950-999",
+    "deputyPhone": "665-951-054"
+  },
+  {
+    "id": 26,
+    "name": "D. Lubomierz 1",
+    "address": "ul. polna 11,59-623 Lubomierz",
+    "managerPhone": "601-146-137",
+    "deputyPhone": "695-230594"
+  },
+  {
+    "id": 27,
+    "name": "D. Mirsk",
+    "address": "ul. Aleja wojska Polskiego ID, 59-630 Mirsk",
+    "managerPhone": "695-803-529",
+    "deputyPhone": "695-803-622"
+  },
+  {
+    "id": 28,
+    "name": "D. Wleń",
+    "address": "ul. wojska Polskiego 6, 59-610 Wleń",
+    "managerPhone": "695-516-715",
+    "deputyPhone": "695-516-720"
+  },
+  {
+    "id": 29,
+    "name": "D. Biała 1 (dol)",
+    "address": "Biała 2C, 59-225 Biała",
+    "managerPhone": "785-281-184",
+    "deputyPhone": "785-281-186"
+  },
+  {
+    "id": 30,
+    "name": "D. Jawor 1",
+    "address": "ul. Władysława Reymonta 11,59-400 Jawor",
+    "managerPhone": "693-440-126",
+    "deputyPhone": "693440-235"
+  },
+  {
+    "id": 31,
+    "name": "D. Jawor 2",
+    "address": "ul. Władysława Sikorskiego 17,59-400 Jawor",
+    "managerPhone": "695-285-818",
+    "deputyPhone": "695-285-924"
+  },
+  {
+    "id": 32,
+    "name": "D. Męcinka 1",
+    "address": "Nowa Męcinka 29, 59-424 Męcinka",
+    "managerPhone": "785-282-189",
+    "deputyPhone": "785-282-204"
+  },
+  {
+    "id": 33,
+    "name": "D. Snowidza 1",
+    "address": "Snowidza 122, 59-406 Snowidza",
+    "managerPhone": "785-361-145",
+    "deputyPhone": "785-361-146"
+  },
+  {
+    "id": 34,
+    "name": "D. Trzebnice 1",
+    "address": "Trzebnice 141A, 59-140 Trzebnice",
+    "managerPhone": "695-231-563",
+    "deputyPhone": "695-232-329"
+  },
+  {
+    "id": 35,
+    "name": "D. Bolków 1",
+    "address": "ul. polna 3, 59-420 Bolków",
+    "managerPhone": "665-950-851",
+    "deputyPhone": "665-951-065"
+  },
+  {
+    "id": 36,
+    "name": "D. Dobromierz (Dol) 1",
+    "address": "serwłnów 28,58-170 Dobromierz",
+    "managerPhone": "885-392-789",
+    "deputyPhone": "785-341-927"
+  },
+  {
+    "id": 37,
+    "name": "D. Graniczna (Dol) 1",
+    "address": "Graniczna IB. 58-150 Graniczna",
+    "managerPhone": "885-392-195",
+    "deputyPhone": "885-392-196"
+  },
+  {
+    "id": 38,
+    "name": "Jelenia Góra 2",
+    "address": "ul. Spółdzielcza 5, 58-500 Jelenia Góra",
+    "managerPhone": "785-297-516",
+    "deputyPhone": "785-297-528"
+  },
+  {
+    "id": 39,
+    "name": "D. Jelenia Góra 3",
+    "address": "ul. Wolności 295,58-560 Jelenia Góra",
+    "managerPhone": "695-517-243",
+    "deputyPhone": "695-517-276"
+  },
+  {
+    "id": 40,
+    "name": "D. Jeżów Sudecki",
+    "address": "ul. Polna 35,58-521 Jeżów Sudecki",
+    "managerPhone": "695-803-425",
+    "deputyPhone": "693-397-953"
+  },
+  {
+    "id": 41,
+    "name": "D. Lusina (dol) 1",
+    "address": "Lusina 248, 55-340 Udanin",
+    "managerPhone": "885-305-465",
+    "deputyPhone": "885-305-467"
+  },
+  {
+    "id": 42,
+    "name": "D. Piechowice (Do) 1",
+    "address": "ul. Przemysłowa 13, 58-573 Piechowice",
+    "managerPhone": "786-110-544",
+    "deputyPhone": "786-110-620"
+  },
+  {
+    "id": 43,
+    "name": "D. Piechowice (Dol) 2",
+    "address": "ul. Kryształowa 83A, 58-573 Piechowice",
+    "managerPhone": "885-988-995",
+    "deputyPhone": "885-989-020"
+  },
+  {
+    "id": 44,
+    "name": "D. Rogoźnica 1",
+    "address": "ul. świdnicka 15, 58-150 Strzegom",
+    "managerPhone": "695-282-270",
+    "deputyPhone": "695-283-332"
+  },
+  {
+    "id": 45,
+    "name": "D. Siedlęcin 1",
+    "address": "ul. Górna 98,58-522 Siedlęcin",
+    "managerPhone": "786-112-177",
+    "deputyPhone": "786-110-479"
+  },
+  {
+    "id": 46,
+    "name": "D. Stanowice (Świdnicki) 1",
+    "address": "ul. Olszańska 2A, 58-141 Stanowice",
+    "managerPhone": "885-995-020",
+    "deputyPhone": "885-997-037"
+  },
+  {
+    "id": 47,
+    "name": "D. Stara Kamienica 1",
+    "address": "ul. Zamkowa 4, 58-512 Stara Kamienica",
+    "managerPhone": "695-263-556",
+    "deputyPhone": "695-263-607"
+  },
+  {
+    "id": 48,
+    "name": "D. Strzegom (Dol) 1",
+    "address": "al. Wojska Polskiego 8014,58-150 Strzegom",
+    "managerPhone": "453-033-202",
+    "deputyPhone": "453-033-204"
+  },
+  {
+    "id": 49,
+    "name": "D. Wojcieszów 1",
+    "address": "ul. Bolesława Chrobrego 98A, 59-550 Wojcieszów",
+    "managerPhone": "665-950-239",
+    "deputyPhone": "665-950262"
+  },
+  {
+    "id": 50,
+    "name": "D. Bolesławiec (DOL) 1",
+    "address": "ul. Starzyńskigo 481,59-700 Bolesławiec",
+    "managerPhone": "695-514-390",
+    "deputyPhone": "695-514-391"
+  },
+  {
+    "id": 51,
+    "name": "D. Bolesławiec (DOL) 2",
+    "address": "ul. Gen. Augusta Emila Fieldorfa \"Nila\" 29,59-700 Bolesławiec",
+    "managerPhone": "785-268-677",
+    "deputyPhone": "785-268678"
+  },
+  {
+    "id": 52,
+    "name": "D. Bolesławiec (DOL) 3",
+    "address": "ul. Jana Pawła 11 50C, 59-700 Bolesławiec",
+    "managerPhone": "785-264-004",
+    "deputyPhone": "785-264-030"
+  },
+  {
+    "id": 53,
+    "name": "D. Bożejowice 1",
+    "address": "Bożejowice IQ 59-700 Bożejowice",
+    "managerPhone": "885-438-030",
+    "deputyPhone": "885-438-152"
+  },
+  {
+    "id": 54,
+    "name": "D. Czerwona Woda 1",
+    "address": "ul. Lubańska 7A, 59-942 Czôrwona Woda",
+    "managerPhone": "695-234-921",
+    "deputyPhone": "695-235-009"
+  },
+  {
+    "id": 55,
+    "name": "D. Iłowa 1",
+    "address": "ul. Żagańska 34A, 68-120 Iłowa",
+    "managerPhone": "695-506-826",
+    "deputyPhone": "605-366-989"
+  },
+  {
+    "id": 56,
+    "name": "D. Iłowa 2",
+    "address": "ul. Borowska ID, 68-120 Iłowa",
+    "managerPhone": "785-335-728",
+    "deputyPhone": "785-335-735"
+  },
+  {
+    "id": 57,
+    "name": "D. Iwiny 1",
+    "address": "Iwiny Osiedle 33,59-721 Iwiny",
+    "managerPhone": "695-831-092",
+    "deputyPhone": "695-831-117"
+  },
+  {
+    "id": 58,
+    "name": "D. Nowogrodziec",
+    "address": "ul. Mickiewicza 20,59-730 Nowogrodziec",
+    "managerPhone": "695-51C)-687",
+    "deputyPhone": "695-510-763"
+  },
+  {
+    "id": 59,
+    "name": "D. Osiecznica (Dol) 1",
+    "address": "ul. Ruszowska 23A, 59-724 Osiecznica",
+    "managerPhone": "507-866-125",
+    "deputyPhone": "510-876-690"
+  },
+  {
+    "id": 60,
+    "name": "D. Pieńsk 1",
+    "address": "ul, Zgorzelecka 44, 59-930 Pieńsk",
+    "managerPhone": "695-511-738",
+    "deputyPhone": "695-511-661"
+  },
+  {
+    "id": 61,
+    "name": "D. Ruszów",
+    "address": "ul. Plater 2, 59-950 Ruszów",
+    "managerPhone": "785-237-369",
+    "deputyPhone": "785-237-400"
+  },
+  {
+    "id": 62,
+    "name": "D. Warta Bolesławiecka 1",
+    "address": "warta Bolesławiecka 468,59-720 Warta Bolesławiecka",
+    "managerPhone": "453-033-193",
+    "deputyPhone": "453-033-194"
+  },
+  {
+    "id": 63,
+    "name": "D. Węgliniec 1",
+    "address": "ul. Piłsudskiego 13,59-940 Węgliniec",
+    "managerPhone": "785-269-439",
+    "deputyPhone": "785-239-528"
+  },
+  {
+    "id": 64,
+    "name": "D. Wykroty 1",
+    "address": "ul. Główna 1A, 59-730 Nowogrodzłec",
+    "managerPhone": "665-921-393",
+    "deputyPhone": "665-921-454"
+  },
+  {
+    "id": 65,
+    "name": "D. Brunów (Lwówecki) 1",
+    "address": "Brunów 23A, 59-600 Brunów",
+    "managerPhone": "785-370-349",
+    "deputyPhone": "785-370)-350"
+  },
+  {
+    "id": 66,
+    "name": "D. Gryfów Śląski",
+    "address": "ul. Oldzańska ID, 59-620 Gryfów Śląski",
+    "managerPhone": "695-902-811",
+    "deputyPhone": "695-803-639"
+  },
+  {
+    "id": 67,
+    "name": "Gryfów śląski",
+    "address": "ul Floriańska 22, 59-620 Gryfów śląski",
+    "managerPhone": "510-953-932",
+    "deputyPhone": "510-953-929"
+  },
+  {
+    "id": 68,
+    "name": "Leśna 1",
+    "address": "ul. Osiedle 46, 59-820 Leśna",
+    "managerPhone": "695-236-407",
+    "deputyPhone": "695-236-409"
+  },
+  {
+    "id": 69,
+    "name": "D. Lwówek Śląski",
+    "address": "ul. Widokowa IA, 59-600 Lwówek Śląski",
+    "managerPhone": "887-303-801",
+    "deputyPhone": "887-303-806"
+  },
+  {
+    "id": 70,
+    "name": "D. Olszyna 1",
+    "address": "ul. Kamienna 18,59-830 Olszyna",
+    "managerPhone": "695-516-234",
+    "deputyPhone": "695-516-235"
+  },
+  {
+    "id": 71,
+    "name": "D. Pielgrzymka 1",
+    "address": "Plelgrzymka 106A, 59-524 Pielgrzymka",
+    "managerPhone": "665-950-260",
+    "deputyPhone": "665-950-263"
+  },
+  {
+    "id": 72,
+    "name": "D. Pławna Dolna 1",
+    "address": "Pławna Dolna 92A, 59-623 Pławna Dolna",
+    "managerPhone": "785-293-223",
+    "deputyPhone": "785-293-520"
+  },
+  {
+    "id": 73,
+    "name": "D. Płóczki Dolne 1",
+    "address": "Płóczki Dolne 84A, 59-600 Płóczki Dolne",
+    "managerPhone": "517-188-503",
+    "deputyPhone": "511-056-185"
+  },
+  {
+    "id": 74,
+    "name": "D. Rakowice Wlelkle 1",
+    "address": "Rakowice Wielkie 138,59-600 Rakowice Wielkie",
+    "managerPhone": "786-117-017",
+    "deputyPhone": "786-110-036"
+  },
+  {
+    "id": 75,
+    "name": "D. Świeradów Zdrój 1",
+    "address": "ul. Grunwaldzka 15A, 59-850 Świeradów Zdrój",
+    "managerPhone": "506-903-796",
+    "deputyPhone": "506-903-798"
+  },
+  {
+    "id": 76,
+    "name": "D. Świeradów Zdrój 2",
+    "address": "ul. Główna 23,59-850 Świeradów-Zdrój",
+    "managerPhone": "510-776-480",
+    "deputyPhone": "510-776-493"
+  },
+  {
+    "id": 77,
+    "name": "D. Wilków (Złotoryjski) 1",
+    "address": "Wilków 32A, 59-513 Wilków",
+    "managerPhone": "885-449-374",
+    "deputyPhone": "885-449-368"
+  },
+  {
+    "id": 78,
+    "name": "D. Zagrodno 1",
+    "address": "Zagrodno 531,59-516 Zagrodno",
+    "managerPhone": "85-297-019",
+    "deputyPhone": "785-297-020"
+  },
+  {
+    "id": 79,
+    "name": "D. Złotoryja 1",
+    "address": "ul. Kard. Stefana Wyszyńskiego 13, 59-500 Złotoryja",
+    "managerPhone": "609-237-192",
+    "deputyPhone": "609-237-312"
+  },
+  {
+    "id": 80,
+    "name": "D. Złotoryja 2",
+    "address": "ul. Podmiejska IA, 59-500 Złotoryja",
+    "managerPhone": "887-320-397",
+    "deputyPhone": "785-297-498"
+  },
+  {
+    "id": 81,
+    "name": "D. Bogatynia 1",
+    "address": "ul. Jana Matejki 37,59-920 Bogatynia",
+    "managerPhone": "695-510-486",
+    "deputyPhone": "695-555-737"
+  },
+  {
+    "id": 82,
+    "name": "D. Gościszów 1",
+    "address": "Gościszów 98A, 59-730 Gościszów",
+    "managerPhone": "510-776-663",
+    "deputyPhone": "510-776-672"
+  },
+  {
+    "id": 83,
+    "name": "D. Lubań 1",
+    "address": "ul. Fabryczna Osiedle 10,59-800 Lubań",
+    "managerPhone": "785-360-206",
+    "deputyPhone": "785-243-693"
+  },
+  {
+    "id": 84,
+    "name": "D. Lubań 2",
+    "address": "ul. Armil Krajowej 5 A, 59-800 Lubań",
+    "managerPhone": "785-344-913",
+    "deputyPhone": "885-393-149"
+  },
+  {
+    "id": 85,
+    "name": "D. Lubań 3",
+    "address": "ul. Groblowa 5,59-800 Lubań",
+    "managerPhone": "887-280-277",
+    "deputyPhone": "887-280-276"
+  },
+  {
+    "id": 86,
+    "name": "D. Lubań 4",
+    "address": "ul. Brzozowa 8,59-800 Lubań",
+    "managerPhone": "785345247",
+    "deputyPhone": "887343446"
+  },
+  {
+    "id": 87,
+    "name": "D. Platerówka 1",
+    "address": "Platerówka 207,56-816 Platerówka",
+    "managerPhone": "785-295-552",
+    "deputyPhone": "782-230-012"
+  },
+  {
+    "id": 88,
+    "name": "D. Porajów 1",
+    "address": "os. Piastowskie 11,59-921 Porajów",
+    "managerPhone": "506-903-626",
+    "deputyPhone": "506-903-648"
+  },
+  {
+    "id": 89,
+    "name": "D. Siekierczyn",
+    "address": "Siekierczyn 2678,59-818 Siekierczyn",
+    "managerPhone": "571-606-961",
+    "deputyPhone": "571-606-962"
+  },
+  {
+    "id": 90,
+    "name": "D. Sulików 1",
+    "address": "ul. Wojska Polskiego IAi 59-975 Sulików",
+    "managerPhone": "695-232-092",
+    "deputyPhone": "695-233-570"
+  },
+  {
+    "id": 91,
+    "name": "D. Zawidów",
+    "address": "ul. Graniczna 7,59-970 Zawidów",
+    "managerPhone": "695-515-534",
+    "deputyPhone": "695-512-071"
+  },
+  {
+    "id": 92,
+    "name": "D. Zawidów 2",
+    "address": "ul. Zgorzelecka 46A, 59-970 Zawidów",
+    "managerPhone": "885-396-759",
+    "deputyPhone": "885-396-760"
+  },
+  {
+    "id": 93,
+    "name": "D. Zgorzelec 1",
+    "address": "ul. Elizy Orzeszkowej 9,59-900 Zgorzelec",
+    "managerPhone": "695-231-983",
+    "deputyPhone": "661-233-221"
+  },
+  {
+    "id": 94,
+    "name": "D. Zgorzelec 2",
+    "address": "ul. Karola Darwina 1,59-900 Zgorzelec",
+    "managerPhone": "785-297-858",
+    "deputyPhone": "785-297-871"
+  },
+  {
+    "id": 95,
+    "name": "D. Zgorzelec 3",
+    "address": "ul. Bohaterów Armii Wojska Polskiego 9,59-900 Zgorzelec",
+    "managerPhone": "506-764-841",
+    "deputyPhone": "506-764-884"
+  },
+  {
+    "id": 96,
+    "name": "D. Janowice Wielkie 1",
+    "address": "ul. 1-go Maja 25A, 58-520 Janowice Wielkie",
+    "managerPhone": "693-398-485",
+    "deputyPhone": "695-803-357"
+  },
+  {
+    "id": 97,
+    "name": "D. Jelenia Góra 1",
+    "address": "ul. Morcinka 33,58-500 Jelenia Góra",
+    "managerPhone": "695-514-056",
+    "deputyPhone": "695-512-986"
+  },
+  {
+    "id": 98,
+    "name": "D. Jelenia Góra 4",
+    "address": "ul. 1-80 Maja 76,58-506 jelenia Góra",
+    "managerPhone": "695-265-412",
+    "deputyPhone": "695-265-541"
+  },
+  {
+    "id": 99,
+    "name": "D. Jelenia Góra 5",
+    "address": "ul. Wrocławska 63,58-506 Jelenia Góra",
+    "managerPhone": "665-942-017",
+    "deputyPhone": "665-942-060"
+  },
+  {
+    "id": 100,
+    "name": "D. Jelenia Góra 7",
+    "address": "ul. Borówkowa 2C, 58-500 Jelenia Góra",
+    "managerPhone": "785-235-733",
+    "deputyPhone": "785-238-203"
+  },
+  {
+    "id": 101,
+    "name": "D. Jeżów Sudecki 2",
+    "address": "ul. Długa 23A, 58-521 Jeżów Sudecki",
+    "managerPhone": "786-117-981",
+    "deputyPhone": "786-118-153"
+  },
+  {
+    "id": 102,
+    "name": "D. Kamienna Góra 1",
+    "address": "ul. Cegielniana 6,58-400 Kamienna Góra",
+    "managerPhone": "695-517-017",
+    "deputyPhone": "695-517-064"
+  },
+  {
+    "id": 103,
+    "name": "D. Karpacz 1",
+    "address": "ul. Wielkopolska 14A, 58-540 Karpacz",
+    "managerPhone": "530781-908",
+    "deputyPhone": "533429-013"
+  },
+  {
+    "id": 104,
+    "name": "D. Karpacz 2.",
+    "address": "ul. Karkonoska IC, 58-540 Karpacz",
+    "managerPhone": "453-033-161",
+    "deputyPhone": "506-763-803"
+  },
+  {
+    "id": 105,
+    "name": "D. Kowary 1",
+    "address": "ul. Władysława 11 Jagiellończyka 1,58-530 Kowary",
+    "managerPhone": "665-290-058",
+    "deputyPhone": "665-290-096"
+  },
+  {
+    "id": 106,
+    "name": "D. Łomnica 1",
+    "address": "ul. Karkonoska 161E, 58-508 Jelenia Góra",
+    "managerPhone": "665-942-173",
+    "deputyPhone": "665-942-277"
+  },
+  {
+    "id": 107,
+    "name": "D. Marciszów 1",
+    "address": "ul. Główna 88A, 58-410 Marciszów",
+    "managerPhone": "785-239-453",
+    "deputyPhone": "785-239-475"
+  },
+  {
+    "id": 108,
+    "name": "D. Mysłakowice 1",
+    "address": "ul. Godebskiego IA, 58-533 Mysłakowice",
+    "managerPhone": "695-263-072",
+    "deputyPhone": "695-263-197"
+  },
+  {
+    "id": 109,
+    "name": "D. Podgórzyn (Dol) 1",
+    "address": "ul. Jana Pawła 11 1,58-562 Podgórzyn",
+    "managerPhone": "785-343-804",
+    "deputyPhone": "785-343-806"
+  },
+  {
+    "id": 110,
+    "name": "D. Bronowice (Żarski) 1",
+    "address": "ul. Kościuszki 13,68-210 Bronowice",
+    "managerPhone": "786-120-758",
+    "deputyPhone": "786-120-148"
+  },
+  {
+    "id": 111,
+    "name": "D. Grabik 1",
+    "address": "ul. Łąkowa 2,68-200 żary",
+    "managerPhone": "785-268-455",
+    "deputyPhone": "785-282-554"
+  },
+  {
+    "id": 112,
+    "name": "D. Lipinki Łużyckie 1",
+    "address": "ul. żarska 15A, 68-213 Lipinki Łużyckie",
+    "managerPhone": "690-291-152",
+    "deputyPhone": "690-290-986"
+  },
+  {
+    "id": 113,
+    "name": "D. Lubomyśl 1",
+    "address": "Lubomyśl 18A, 68-200 Lubomyśl",
+    "managerPhone": "885-396-282",
+    "deputyPhone": "885-396-283"
+  },
+  {
+    "id": 114,
+    "name": "D. Łęknica 1",
+    "address": "ul. Dworcowa 88,68-208 Łęknica",
+    "managerPhone": "661-233-978",
+    "deputyPhone": "661-234Q3"
+  },
+  {
+    "id": 115,
+    "name": "D. Olbrachtów 1",
+    "address": "Olbrachtów 117,68-200 Olbrachtów",
+    "managerPhone": "885-400-828",
+    "deputyPhone": "885400-830"
+  },
+  {
+    "id": 116,
+    "name": "Przewóz (Żarski) 1",
+    "address": "ul. Kolejowa 6G, 68-132 Przewóz",
+    "managerPhone": "786-110-889",
+    "deputyPhone": "786-110-897"
+  },
+  {
+    "id": 117,
+    "name": "Tuplice 1",
+    "address": "ul. 9 Maja 4A, 68-219 Tuplice",
+    "managerPhone": "785-285-869",
+    "deputyPhone": "785-285-874"
+  },
+  {
+    "id": 118,
+    "name": "Żagań 4",
+    "address": "ul. Kolejowa 56,68-100 żagań",
+    "managerPhone": "885-983-217",
+    "deputyPhone": "885-986-118"
+  },
+  {
+    "id": 119,
+    "name": "Żary",
+    "address": "ul. Zielonogórska 16,68-200 Żary",
+    "managerPhone": "695-515-623",
+    "deputyPhone": "695-515-658"
+  },
+  {
+    "id": 120,
+    "name": "D. żary 2.",
+    "address": "ul. Grunwaldzka 34A, 68-200 Żary",
+    "managerPhone": "451-176-555",
+    "deputyPhone": "451-176-556"
+  },
+  {
+    "id": 121,
+    "name": "D. Żary 4",
+    "address": "ul. Piastowska 2C, 68-200 Żary",
+    "managerPhone": "885-400-819",
+    "deputyPhone": "885-400-821"
+  },
+  {
+    "id": 122,
+    "name": "D. Legnickie Pole 1",
+    "address": "ul. świętej Jadwigi 14, 59-241 Legnickie Pole",
+    "managerPhone": "785-336-324",
+    "deputyPhone": "785-336-373"
+  },
+  {
+    "id": 123,
+    "name": "D. Nowa Wieś Legnicka 1",
+    "address": "Nowa Wieś Legnicka 50C, 59-241 Nowa Wleś Legnicka",
+    "managerPhone": "786-117-522",
+    "deputyPhone": "786-117-028"
+  },
+  {
+    "id": 124,
+    "name": "D. Gniewomirowice 1",
+    "address": "Gniewomlrowlce ID, 59-222 Gniewomirowice",
+    "managerPhone": "501-670-718",
+    "deputyPhone": "501-670-699"
+  },
+  {
+    "id": 125,
+    "name": "D. Legnica 2",
+    "address": "ul. Kamińskiego 31A-F, 59-220 Legnica",
+    "managerPhone": "695-517-291",
+    "deputyPhone": "695-517-332"
+  },
+  {
+    "id": 126,
+    "name": "D. Legnica 3",
+    "address": "ul. Jaworzyńska 83, 59-220 Legnica",
+    "managerPhone": "695-517-279",
+    "deputyPhone": "695-552-919"
+  },
+  {
+    "id": 127,
+    "name": "Legnica 4",
+    "address": "ul. Płk.Karola Myrka 2,59-220 Legnica",
+    "managerPhone": "665-950-794",
+    "deputyPhone": "665-950-801"
+  },
+  {
+    "id": 128,
+    "name": "D. Legnica 5",
+    "address": "ul. Koskowłcka 5C, 59-220 Legnica",
+    "managerPhone": "504-853-635",
+    "deputyPhone": "504-853-629"
+  },
+  {
+    "id": 129,
+    "name": "D. Legnica 6",
+    "address": "ul. Fiołkowa 2A, 59-220 Legnica",
+    "managerPhone": "885-983-197",
+    "deputyPhone": "885-983-790"
+  },
+  {
+    "id": 130,
+    "name": "D. Miłkowice 1",
+    "address": "ul. wojska Polskiego 52A, 59-222 Miłkowice",
+    "managerPhone": "514-838-474",
+    "deputyPhone": "514-838-394"
+  },
+  {
+    "id": 131,
+    "name": "D. Rzeszotary 1",
+    "address": "ul. Legnicka 58, 59-222 Miłkowice",
+    "managerPhone": "785-297-433",
+    "deputyPhone": "785-297-426"
+  },
+  {
+    "id": 132,
+    "name": "D. Spalona (Legnicki) 1",
+    "address": "ul. Legnicka 9,59-216 Kunice",
+    "managerPhone": "885-392-276",
+    "deputyPhone": "885-392-277"
+  },
+  {
+    "id": 133,
+    "name": "D. Przejęsław 1",
+    "address": "Przejęsław 20A, 59-724 Przejęsław",
+    "managerPhone": "786-116-017",
+    "deputyPhone": "786-116-020"
+  },
+  {
+    "id": 134,
+    "name": "D. Świętoszów 1",
+    "address": "ul. Ułańska 8,59-724 Świętoszów",
+    "managerPhone": "451-176-557",
+    "deputyPhone": "451-176-558"
+  },
+  {
+    "id": 135,
+    "name": "D. Leszno Górne 1",
+    "address": "ul. Bolesławiecka 4, 67-321 Leszno Górne",
+    "managerPhone": "785-320-618",
+    "deputyPhone": "785-243-782"
+  },
+  {
+    "id": 136,
+    "name": "D. Niegosławice 1",
+    "address": "Niegosławice 548,67-312 Niegosławice",
+    "managerPhone": "786-116-078",
+    "deputyPhone": "786-116-077"
+  },
+  {
+    "id": 137,
+    "name": "D. Szprotawa 1",
+    "address": "ul. Kasprowicza 2, 67-300 Szprotawa",
+    "managerPhone": "691-016-788",
+    "deputyPhone": "695-803-382"
+  },
+  {
+    "id": 138,
+    "name": "D. Szprotawa 2",
+    "address": "ul. Niepodległości 13A, 67-300 Szprotawa",
+    "managerPhone": "695-514-852",
+    "deputyPhone": "695-514-853"
+  },
+  {
+    "id": 139,
+    "name": "D. Szprotawa 3",
+    "address": "ul. Kraszewskiego 18,67-300 Szprotawa",
+    "managerPhone": "506-764-896",
+    "deputyPhone": "506-764-904"
+  },
+  {
+    "id": 140,
+    "name": "D. Wiechlice 1",
+    "address": "ul. Brzozowa 18,67-300 Wiechlice",
+    "managerPhone": "661-019-360",
+    "deputyPhone": "661-019-223"
+  },
+  {
+    "id": 141,
+    "name": "D. Bobrzany 1",
+    "address": "Bobrzany 93A, 67-320 Bobrzany",
+    "managerPhone": "785-336-921",
+    "deputyPhone": "785-336-953"
+  },
+  {
+    "id": 142,
+    "name": "D. Małomice 1",
+    "address": "ul. Kościuszki 14,67-320 Małomice",
+    "managerPhone": "665-941-674",
+    "deputyPhone": "695-513-748"
+  },
+  {
+    "id": 143,
+    "name": "D. Mokrzeszów",
+    "address": "Mokrzeszów 1058, 58-160 Mokrzeszów",
+    "managerPhone": "501-670-651",
+    "deputyPhone": "501-670-795"
+  },
+  {
+    "id": 144,
+    "name": "D. Wałbrzych 2",
+    "address": "ul. Orkana 63a, 58-307 Wałbrzych",
+    "managerPhone": "786-110-572",
+    "deputyPhone": "786-110-424"
+  },
+  {
+    "id": 145,
+    "name": "D. Witoszów Dolny 1",
+    "address": "Witoszów Dolny 120A, 58-100 Witoszów Dolny",
+    "managerPhone": "785-336-095",
+    "deputyPhone": "785-336-114"
+  },
+  {
+    "id": 146,
+    "name": "D. Jaworzyna Śląska",
+    "address": "ul. Wolności 2F, 58-140 Jaworzyna Śląska",
+    "managerPhone": "695-902-822",
+    "deputyPhone": "695-902-819"
+  },
+  {
+    "id": 147,
+    "name": "D. Świdnica (Dol)",
+    "address": "ul. Przyjaźni 1, 58-100 Świdnica",
+    "managerPhone": "885-986-713",
+    "deputyPhone": "885-986-725"
+  },
+  {
+    "id": 148,
+    "name": "D. Świdnica (Dol) 2",
+    "address": "ul. Marcinkowskiego 18, 58-100 Świdnica",
+    "managerPhone": "885-982-294",
+    "deputyPhone": "885-982-314"
+  },
+  {
+    "id": 149,
+    "name": "D. Świebodzice 1",
+    "address": "ul. Mieszka 14,58-160 Świebodzice",
+    "managerPhone": "785-298-128",
+    "deputyPhone": "785-298-133"
+  },
+  {
+    "id": 150,
+    "name": "D. Wałbrzych 1",
+    "address": "ul, Forteczna 1,58-316 Wałbrzych",
+    "managerPhone": "695-514-435",
+    "deputyPhone": "695-514-437"
+  },
+  {
+    "id": 151,
+    "name": "D. Wałbrzych 3",
+    "address": "ul. Wincentego Witosa 69, 58-306 Wałbrzych",
+    "managerPhone": "785-370-408",
+    "deputyPhone": "785-370-410"
+  },
+  {
+    "id": 152,
+    "name": "D. Żarów",
+    "address": "ul. Chrobrego 11,58-130 Żarów",
+    "managerPhone": "695-902-785",
+    "deputyPhone": "695-902-788"
+  },
+  {
+    "id": 153,
+    "name": "D. Żarów 2",
+    "address": "ul. Adama Mickiewicza 298,58-130 Żarów",
+    "managerPhone": "510-776-494",
+    "deputyPhone": "510-776-503"
+  },
+  {
+    "id": 154,
+    "name": "D. Boguszów Gorce 1",
+    "address": "ul. Traugutta 27A, 58-371 Boguszów Gorce",
+    "managerPhone": "663-755-156",
+    "deputyPhone": "693-334-142"
+  },
+  {
+    "id": 155,
+    "name": "D. Boguszów Gorce 2",
+    "address": "ul. Henryka Sienkiewicza 461, 58-370 Boguszów-Gorce",
+    "managerPhone": "785-260-663",
+    "deputyPhone": "785-260-665"
+  },
+  {
+    "id": 156,
+    "name": "D. Chełmsko Śląskie 1",
+    "address": "ul. Lubawska 35,58-407 Chlłmsko śląskie",
+    "managerPhone": "695-510-62.5",
+    "deputyPhone": "695-510-650"
+  },
+  {
+    "id": 157,
+    "name": "D. Czarny Bór",
+    "address": "ul. Kamiennogórska 20A, 58-379 Czarny Bór",
+    "managerPhone": "695-803-611",
+    "deputyPhone": "695-803-633"
+  },
+  {
+    "id": 158,
+    "name": "D. Głuszyca",
+    "address": "ul. Pionierów 5,58-340 Głoszyca",
+    "managerPhone": "695-536-72.9",
+    "deputyPhone": "695-545-389"
+  },
+  {
+    "id": 159,
+    "name": "D. Jedlina Zdrój 1",
+    "address": "ul. Bolesława Chrobrego 6,4, 58-330 Jedlina Zdrój",
+    "managerPhone": "695-803-513",
+    "deputyPhone": "695-803-616"
+  },
+  {
+    "id": 160,
+    "name": "D. Jedlina Zdrój 2",
+    "address": "ul. Łąkowa 2,58-330 Jedlina Zdrój",
+    "managerPhone": "885-369-772",
+    "deputyPhone": "885-369-773"
+  },
+  {
+    "id": 161,
+    "name": "D. Krzeszów 1",
+    "address": "ul. Jadwłgł Śląskiej 2A, 58-405 Krzeszów",
+    "managerPhone": "665-928-270",
+    "deputyPhone": "665-928-387"
+  },
+  {
+    "id": 162,
+    "name": "D. Lubawka 1",
+    "address": "ul. Gazowa 4, 58-420 Lubawka",
+    "managerPhone": "695-831-829",
+    "deputyPhone": "695-831-857"
+  },
+  {
+    "id": 163,
+    "name": "D. Mieroszów 1",
+    "address": "ul. Mickiewicza 26, 58-350 Mieroszów",
+    "managerPhone": "695-516-596",
+    "deputyPhone": "695-516-598"
+  },
+  {
+    "id": 164,
+    "name": "D. Walim 1",
+    "address": "ul. Kardynała Stefana Wyszyńskiego 388,58-320 Walim",
+    "managerPhone": "665-920-504",
+    "deputyPhone": "665-921-480"
+  },
+  {
+    "id": 165,
+    "name": "D. Wałbrzych 4",
+    "address": "ul. Świdnicka 94,58-303 Wałbrzych",
+    "managerPhone": "661-026-193",
+    "deputyPhone": "661-026-614"
+  },
+  {
+    "id": 166,
+    "name": "D. Zagórze Śląskie 1",
+    "address": "ul. Główna 9, 58-321 Zagórze Śląskie",
+    "managerPhone": "885-395-503",
+    "deputyPhone": "885-395-504"
+  },
+  {
+    "id": 167,
+    "name": "D. Nowe Miasteczko 1",
+    "address": "ul. Konopnickiej 1, 67-124 Nowe Miasteczko",
+    "managerPhone": "695-519-715",
+    "deputyPhone": "785-269-302"
+  },
+  {
+    "id": 168,
+    "name": "D. Nowe Miasteczko 2",
+    "address": "ul, Szosa Bytomska 13, 67-124 Nowe Miasteczko",
+    "managerPhone": "785-261-682",
+    "deputyPhone": "785-261-707"
+  },
+  {
+    "id": 169,
+    "name": "D. Witoszyn 1",
+    "address": "ul. Żołnierzy 1 1 Armii WP 69Â, 68-131 Wymiarki",
+    "managerPhone": "785-268-780",
+    "deputyPhone": "785-268-781"
+  },
+  {
+    "id": 170,
+    "name": "D. Przemków",
+    "address": "ul. Akacjowa 1, 59-170 Przemków",
+    "managerPhone": "504-853-650",
+    "deputyPhone": "504-853-648"
+  },
+  {
+    "id": 171,
+    "name": "D. Żagań 1",
+    "address": "ul. J. Piłsudskiego 458, 68-100 żagań",
+    "managerPhone": "785-241-312",
+    "deputyPhone": "785-241-334"
+  },
+  {
+    "id": 172,
+    "name": "D. Bożnów 1",
+    "address": "ul. Wspólna 2,68-100 Bożnów",
+    "managerPhone": "785-240-164",
+    "deputyPhone": "785-240-165"
+  },
+  {
+    "id": 173,
+    "name": "D. Brzeźnica 1",
+    "address": "ul. Zielonogórska 30FB, 68-113 Brzeźnłca",
+    "managerPhone": "786-116-068",
+    "deputyPhone": "786-116-048"
+  },
+  {
+    "id": 174,
+    "name": "D. Mirostowice Dolne 1",
+    "address": "ul. żarska 11, 68-200 żary",
+    "managerPhone": "785-269-426",
+    "deputyPhone": "785-269-427"
+  },
+  {
+    "id": 175,
+    "name": "D. Żagań 2",
+    "address": "ul. żarska 200 68-100 żagań",
+    "managerPhone": "785-243-878",
+    "deputyPhone": "785-243-881"
+  },
+  {
+    "id": 176,
+    "name": "D. Żagań 3",
+    "address": "ul. Nowogródzka 92A, 68-100 żagań",
+    "managerPhone": "726-442-658",
+    "deputyPhone": "726-442-656"
+  },
+  {
+    "id": 177,
+    "name": "D. Żary 3",
+    "address": "al. Wolska Polskiego 648, 68-200 żary",
+    "managerPhone": "609-239-359",
+    "deputyPhone": "695-230-146"
+  },
+  {
+    "id": 178,
+    "name": "D. Budziszów Wielki 1",
+    "address": "Budziszów Wielki 79A, 59-431 Budziszów Wielki",
+    "managerPhone": "510-776-410",
+    "deputyPhone": "510-776-412"
+  },
+  {
+    "id": 179,
+    "name": "D. Ciechów 1",
+    "address": "ul. Słoneczna 9, 55-300 Środa Śląska",
+    "managerPhone": "786-117-030",
+    "deputyPhone": "786-117-034"
+  },
+  {
+    "id": 180,
+    "name": "D. Kostomłoty 1",
+    "address": "ul, 1-80 Mała 17C, 55-311 Kostomłoty",
+    "managerPhone": "607-231-444",
+    "deputyPhone": "607-231-491"
+  },
+  {
+    "id": 181,
+    "name": "D. Lutynia 1",
+    "address": "ul wodna 2, 55-330 Miękinia",
+    "managerPhone": "665-951-255",
+    "deputyPhone": "665-950-653"
+  },
+  {
+    "id": 182,
+    "name": "D. Miękinia",
+    "address": "ul. Kościuszki 48,55-330 Miękinia",
+    "managerPhone": "695-517-880",
+    "deputyPhone": "695-517482"
+  },
+  {
+    "id": 183,
+    "name": "D. Ujazd Górny 1",
+    "address": "ul. Kolejowa 2,55-340 Udanin",
+    "managerPhone": "512-019-538",
+    "deputyPhone": "512-019-581"
+  },
+  {
+    "id": 184,
+    "name": "D. Pęgów (Dol) 1",
+    "address": "ul Główna 46, 55-120 Pęgów",
+    "managerPhone": "786-130-394",
+    "deputyPhone": "786-130-251"
+  },
+  {
+    "id": 185,
+    "name": "D. Uraz (Dol) 1",
+    "address": "ul. Wołowska 49, 55-120 Uraz",
+    "managerPhone": "786-140-402",
+    "deputyPhone": "786-120-949"
+  },
+  {
+    "id": 186,
+    "name": "D. Brzeg Dolny 1",
+    "address": "ul. Dębowa 6A, 56-120 Brzeg Dolny",
+    "managerPhone": "786-115-164",
+    "deputyPhone": "786-115-499"
+  },
+  {
+    "id": 187,
+    "name": "D. Lubiąż 1",
+    "address": "ul. Michała Leopolda Wlllmanna 8, 56-100 Wołów",
+    "managerPhone": "695-518-485",
+    "deputyPhone": "695-518-487"
+  },
+  {
+    "id": 188,
+    "name": "D. Malczyce",
+    "address": "ul. 1- go Maja 51, 55-320 Malczyce",
+    "managerPhone": "695-518-368",
+    "deputyPhone": "695-551-047"
+  },
+  {
+    "id": 189,
+    "name": "D. Mazurowice 1",
+    "address": "ul. Kolełowa 198,55-320 Malczyce",
+    "managerPhone": "785-344-071",
+    "deputyPhone": "785-344-929"
+  },
+  {
+    "id": 190,
+    "name": "D. Mrozów 1",
+    "address": "ul. Wyzwolenia 24A, 55-330 Mrozów",
+    "managerPhone": "885-393-334",
+    "deputyPhone": "885-393-335"
+  },
+  {
+    "id": 191,
+    "name": "D. Pełczyn (Dol) i",
+    "address": "Pełczyn 60BA, 56-100 Pełczyn",
+    "managerPhone": "786-110-362",
+    "deputyPhone": "786-111-528"
+  },
+  {
+    "id": 192,
+    "name": "D. Prochowice 1",
+    "address": "ul. Mieszka 14,59-230 Prochowice",
+    "managerPhone": "506-902-879",
+    "deputyPhone": "506-902-890"
+  },
+  {
+    "id": 193,
+    "name": "D. Uskorz Mały 1",
+    "address": "Uskorz Mały 1, 56-100 Wołów",
+    "managerPhone": "785-351-611",
+    "deputyPhone": "785-351-612"
+  },
+  {
+    "id": 194,
+    "name": "D. Wądroże Wielkie 1",
+    "address": "Wądroże Wielkie 245,59-430 Wądroże Wielkie",
+    "managerPhone": "785-232-167",
+    "deputyPhone": "785-233-087"
+  },
+  {
+    "id": 195,
+    "name": "D. Czernina 1",
+    "address": "ul. Sułkowska 1,56-200 Góra",
+    "managerPhone": "785-338-198",
+    "deputyPhone": "785-338-200"
+  },
+  {
+    "id": 196,
+    "name": "D. Góra 1",
+    "address": "ul. Podwale 47A, 56-200G6ra",
+    "managerPhone": "695-518-406",
+    "deputyPhone": "695-518-600"
+  },
+  {
+    "id": 197,
+    "name": "D. Góra 2",
+    "address": "ul. Kazimierza Wielkiego IF, 56-200 Gćra",
+    "managerPhone": "665-920-240",
+    "deputyPhone": "665-920-339"
+  },
+  {
+    "id": 198,
+    "name": "D. Góra 3",
+    "address": "ul. Wrocławska 82, 56-200 Góra",
+    "managerPhone": "885-434-535",
+    "deputyPhone": "885-434-801"
+  },
+  {
+    "id": 199,
+    "name": "D. Góra 4",
+    "address": "ul. Poznańska 17356-200 Góra",
+    "managerPhone": "885-235-627",
+    "deputyPhone": "885-235-641"
+  },
+  {
+    "id": 200,
+    "name": "D. Góra 5",
+    "address": "ul. Starogórska 67,56-200 Góra",
+    "managerPhone": "537-332-037",
+    "deputyPhone": "536-909-525"
+  },
+  {
+    "id": 201,
+    "name": "D. Jemielno 1",
+    "address": "Jemielno 131,56-209 Jemielno",
+    "managerPhone": "885-392-852",
+    "deputyPhone": "885-395-089"
+  },
+  {
+    "id": 202,
+    "name": "D. Luboszyce (Dol) 1",
+    "address": "Luboszyce 57,56-209 Luboszyce",
+    "managerPhone": "509-638-091",
+    "deputyPhone": "510-776-444"
+  },
+  {
+    "id": 203,
+    "name": "D. Niechlów 1",
+    "address": "ul. Głogowska 2A, 56-215 Niechlów",
+    "managerPhone": "785-361-481",
+    "deputyPhone": "785-361-483"
+  },
+  {
+    "id": 204,
+    "name": "D. Wąsosz",
+    "address": "ul. Rawicka 2H, 56-210 Wąsosz",
+    "managerPhone": "695-902-856",
+    "deputyPhone": "695-902-857"
+  },
+  {
+    "id": 205,
+    "name": "D. Wińsko",
+    "address": "ul. Witosa 12, 56-160 Wińsko",
+    "managerPhone": "695-551-338",
+    "deputyPhone": "695-551-350"
+  },
+  {
+    "id": 206,
+    "name": "D. Oborniki Śląskie 1",
+    "address": "ul. Marli Skłodowskiej curie 8,55-120 Oborniki śląskie",
+    "managerPhone": "693-398-401",
+    "deputyPhone": "695-803-421"
+  },
+  {
+    "id": 207,
+    "name": "D. Oborniki Śląskle 2",
+    "address": "ul. Trzebnicka 55,55-120 Oborniki śląskie",
+    "managerPhone": "785-299-612",
+    "deputyPhone": "785-299-613"
+  },
+  {
+    "id": 208,
+    "name": "D. Oborniki Śląskie 3",
+    "address": "ul. Marsz. Józefa Piłsudskiego 35,55-120 Oborniki śląskie",
+    "managerPhone": "785-282-674",
+    "deputyPhone": "785-282-793"
+  },
+  {
+    "id": 209,
+    "name": "D. Rakoszyce 1",
+    "address": "ul. Średzka 2A, 55-300 Środa Śląska",
+    "managerPhone": "786-117-010",
+    "deputyPhone": "786-117-004"
+  },
+  {
+    "id": 210,
+    "name": "D. Skokowa 1",
+    "address": "ul. Żmigrodzka 28,55-110 Prusice",
+    "managerPhone": "786-116-076",
+    "deputyPhone": "786-116-075"
+  },
+  {
+    "id": 211,
+    "name": "D. Ścinawa 1",
+    "address": "ul. Rynek 7,59-330 Ścinawa",
+    "managerPhone": "695-518-708",
+    "deputyPhone": "695-518-386"
+  },
+  {
+    "id": 212,
+    "name": "D. Ścinawa 2",
+    "address": "ul. Lubińska 23,59-330 Ścinawa",
+    "managerPhone": "785-242-573",
+    "deputyPhone": "785-242-591"
+  },
+  {
+    "id": 213,
+    "name": "D. Środa Śląska 1",
+    "address": "ul. Wolności 60,55-300 środa śląska",
+    "managerPhone": "691-016-829",
+    "deputyPhone": "695-803-351"
+  },
+  {
+    "id": 214,
+    "name": "D. Środa Śląska 2",
+    "address": "ul. Dworcowa 1,55-300 Środa Śląska",
+    "managerPhone": "785-297-021",
+    "deputyPhone": "785-297-040"
+  },
+  {
+    "id": 215,
+    "name": "D. Wołów 1",
+    "address": "ul. Piłsudskiego 14,56-100 wołów",
+    "managerPhone": "695-803-405",
+    "deputyPhone": "605-366-984"
+  },
+  {
+    "id": 216,
+    "name": "D. Wołów 2",
+    "address": "ul. Przechodnła 4,56-100 Wołów",
+    "managerPhone": "695-514-865",
+    "deputyPhone": "695-514-150"
+  },
+  {
+    "id": 217,
+    "name": "D. Chobienia 1",
+    "address": "ul. Stefanii Akerman 29,59-340 Chobienia",
+    "managerPhone": "695-232-188",
+    "deputyPhone": "695-232-197"
+  },
+  {
+    "id": 218,
+    "name": "D. Kotla",
+    "address": "ul. Głogowska 49A, 67-240 Kotla",
+    "managerPhone": "695-548-117",
+    "deputyPhone": "695-548-883"
+  },
+  {
+    "id": 219,
+    "name": "D. Ruszowice 1",
+    "address": "ul. Rubinowa 2D, 67-210 Ruszowice",
+    "managerPhone": "665-920-882",
+    "deputyPhone": "665-920-948"
+  },
+  {
+    "id": 220,
+    "name": "D. Głogów 1",
+    "address": "ul. ślusarska 1,67-200 Głogów",
+    "managerPhone": "695-264-014",
+    "deputyPhone": "695-514-383"
+  },
+  {
+    "id": 221,
+    "name": "D. Głogów 2",
+    "address": "ul. Kazimierza Sprawiedliwego 12,67-200 Głogów",
+    "managerPhone": "695-232-726",
+    "deputyPhone": "695-2.32-731"
+  },
+  {
+    "id": 222,
+    "name": "D. Głogów 3",
+    "address": "ul. Rudnowska 78C, 67-200 Głogów",
+    "managerPhone": "785-343-586",
+    "deputyPhone": "785-343-609"
+  },
+  {
+    "id": 223,
+    "name": "D. Jędrzychowice 1",
+    "address": "Jędrzychowice 43A, 67-407 Jędrzychowice",
+    "managerPhone": "785-243-159",
+    "deputyPhone": "785-243-166"
+  },
+  {
+    "id": 224,
+    "name": "D. Krzepielów 1",
+    "address": "Krzepielów 130,67-410 Krzepielów",
+    "managerPhone": "785-281-654",
+    "deputyPhone": "785-281-788"
+  },
+  {
+    "id": 225,
+    "name": "D. Szlichtyngowa",
+    "address": "ul. Głogowska 31,67-407 Szlichtyngowa",
+    "managerPhone": "695-511-921",
+    "deputyPhone": "695-514-039"
+  },
+  {
+    "id": 226,
+    "name": "D. Witoszyce 1",
+    "address": "Witoszyce 3 1,56-200 Witoszyce",
+    "managerPhone": "519-194-688",
+    "deputyPhone": "519-194-691"
+  },
+  {
+    "id": 227,
+    "name": "D. Wschowa 1",
+    "address": "ul. Szymanowskiego 1,67-400 Wschowa",
+    "managerPhone": "695-902-858",
+    "deputyPhone": "695-902-859"
+  },
+  {
+    "id": 228,
+    "name": "D. Wschowa 2",
+    "address": "ul. Kościuszki 15,67-400 Wschowa",
+    "managerPhone": "695-232-051",
+    "deputyPhone": "695-232-134"
+  },
+  {
+    "id": 229,
+    "name": "D. Wschowa 3",
+    "address": "ul. Konradowska IA, 67-400 Wschowa",
+    "managerPhone": "785-268-085",
+    "deputyPhone": "785-268-086"
+  },
+  {
+    "id": 230,
+    "name": "D. Wschowa 4",
+    "address": "ul. Wolsztyńska 35, 67-400 Wschowa",
+    "managerPhone": "507-444-452",
+    "deputyPhone": "507-443-882"
+  },
+  {
+    "id": 231,
+    "name": "D. Kożuchów 1",
+    "address": "ul. Kraszewskiego 9A, 67-120 Kożuchów",
+    "managerPhone": "695-262-341",
+    "deputyPhone": "695-262-416"
+  },
+  {
+    "id": 232,
+    "name": "D. Kożuchów 2",
+    "address": "ul. Dworcowa 2,67-120 Kożuchów",
+    "managerPhone": "785-281-908",
+    "deputyPhone": "785-282-815"
+  },
+  {
+    "id": 233,
+    "name": "D. Kożuchów 3",
+    "address": "ul. Nowosolna 36,67-120 Kożuchów",
+    "managerPhone": "887-247-140",
+    "deputyPhone": "887-247-242"
+  },
+  {
+    "id": 234,
+    "name": "D. Lubieszów 1",
+    "address": "Lubieszów 108,67-100 Lubieszów",
+    "managerPhone": "785-234-517",
+    "deputyPhone": "785-235-115"
+  },
+  {
+    "id": 235,
+    "name": "D. Mirocin Dolny 1",
+    "address": "Mirocin Dolny 318,67-128 Mirocin Dolny",
+    "managerPhone": "785-362-828",
+    "deputyPhone": "785-363-149"
+  },
+  {
+    "id": 236,
+    "name": "D. Stypułów 1",
+    "address": "Stypułów 118,67-120 Stypułów",
+    "managerPhone": "785-242-643",
+    "deputyPhone": "785-242-645"
+  },
+  {
+    "id": 237,
+    "name": "D. Buczyna (DOL) 1",
+    "address": "Buczyna 8D, 59-160 Buczyna",
+    "managerPhone": "507-753-218",
+    "deputyPhone": "507-753-217"
+  },
+  {
+    "id": 238,
+    "name": "D. Chróstnik 1",
+    "address": "Chróstnik 78, 59-311 Chróstnik",
+    "managerPhone": "887-240-084",
+    "deputyPhone": "887-240-085"
+  },
+  {
+    "id": 239,
+    "name": "D. Grębocice 1",
+    "address": "ul. Azaliowa 1,59-150 Grębocice",
+    "managerPhone": "661-690-194",
+    "deputyPhone": "661-690-107"
+  },
+  {
+    "id": 240,
+    "name": "D. Jerzmanowa",
+    "address": "ul. Deszczowa 2,67-222 Jerzmanowa",
+    "managerPhone": "785-299-616",
+    "deputyPhone": "785-299-617"
+  },
+  {
+    "id": 241,
+    "name": "D. Księginice (Lubiński) 1",
+    "address": "Księginice 38E, 59-300 Księginice",
+    "managerPhone": "885-395-629",
+    "deputyPhone": "518-351-126"
+  },
+  {
+    "id": 242,
+    "name": "D. Lubin 2",
+    "address": "ul. Krzemlenlecka 31,59-300 Lubłn",
+    "managerPhone": "887-280-284",
+    "deputyPhone": "887-280-286"
+  },
+  {
+    "id": 243,
+    "name": "D. Lubin 5",
+    "address": "ul. żurawia 40,59-300 Lubin",
+    "managerPhone": "885-339-360",
+    "deputyPhone": "885-392-168"
+  },
+  {
+    "id": 244,
+    "name": "Lubin 7",
+    "address": "ul. Małomicka 82A, 59-300 Lubin",
+    "managerPhone": "887-883-843",
+    "deputyPhone": "887-883-862"
+  },
+  {
+    "id": 245,
+    "name": "D. Niemstów 1",
+    "address": "Niemstów 15A, 59-323 Niemstów",
+    "managerPhone": "785-268-584",
+    "deputyPhone": "785-268-585"
+  },
+  {
+    "id": 246,
+    "name": "D. Osiek (dol) 1",
+    "address": "ul. Św. Katarzyny 14,59-300 Lubin",
+    "managerPhone": "785-291-919",
+    "deputyPhone": "785-292-009"
+  },
+  {
+    "id": 247,
+    "name": "D. Pęcław 1",
+    "address": "Pęcław 102,67-221 Pęcław",
+    "managerPhone": "785-361-791",
+    "deputyPhone": "785-361-793"
+  },
+  {
+    "id": 248,
+    "name": "D. Prochowice 2",
+    "address": "ul. Slenkiewlcza 32,59-230 Prochowice",
+    "managerPhone": "506-903-726",
+    "deputyPhone": "506-903-552"
+  },
+  {
+    "id": 249,
+    "name": "D. Radwanice 1",
+    "address": "ul. Storczykowa 1,59-160 Radwanice",
+    "managerPhone": "785-293-155",
+    "deputyPhone": "785-293-189"
+  },
+  {
+    "id": 250,
+    "name": "D. Raszówka 1",
+    "address": "ul. Polna 2AA ,59-307 Raszówka",
+    "managerPhone": "785-360-223",
+    "deputyPhone": "785-360-228"
+  },
+  {
+    "id": 251,
+    "name": "D. Rudna",
+    "address": "ul. Krochmalna 6,59-305 Rudna",
+    "managerPhone": "695-250-331",
+    "deputyPhone": "695-252-984"
+  },
+  {
+    "id": 252,
+    "name": "D. Chocianów 1",
+    "address": "ul. Bohaterów Wojska Polskiego 68,59-141 Chocianów",
+    "managerPhone": "695-510-558",
+    "deputyPhone": "695-510-809"
+  },
+  {
+    "id": 253,
+    "name": "D. Chocianów 2",
+    "address": "ul. Trzebnłcka 22,59-140 Chocianów",
+    "managerPhone": "785-370-591",
+    "deputyPhone": "785-370-604"
+  },
+  {
+    "id": 254,
+    "name": "D. Chocianów 3",
+    "address": "ul. Głogowska 12A, 59-140 Chocianów",
+    "managerPhone": "885-396-510",
+    "deputyPhone": "885-396-511"
+  },
+  {
+    "id": 255,
+    "name": "D. Gromadka 1",
+    "address": "ul. 11 Listopada 31A, 59-706 Gromadka",
+    "managerPhone": "695-263-950",
+    "deputyPhone": "695-264-325"
+  },
+  {
+    "id": 256,
+    "name": "D. Kraśnik Dolny",
+    "address": "Kraśnik Dolny 810) 59-700 Kraśnik Dolny",
+    "managerPhone": "785-283632",
+    "deputyPhone": "785-283-636"
+  }
+]
