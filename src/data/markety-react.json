@@ -555,7 +555,7 @@
   {
     "id": 80,
     "name": "D. Złotoryja 2",
-    "address": "ul. Podmiejska IA, 59-500 Złotoryja",
+    "address": "ul. Podmiejska 1A, 59-500 Złotoryja",
     "managerPhone": "887-320-397",
     "deputyPhone": "785-297-498"
   },
@@ -1787,8 +1787,15 @@
   {
     "id": 256,
     "name": "D. Kraśnik Dolny",
-    "address": "Kraśnik Dolny 810) 59-700 Kraśnik Dolny",
+    "address": "Kraśnik Dolny 810 59-700 Kraśnik Dolny",
     "managerPhone": "785-283632",
     "deputyPhone": "785-283-636"
+  },
+  {
+    "id": 257,
+    "name": "Radomierzyce",
+    "address": "Radomierzyce 41A, 59-900 Radomierzyce",
+    "managerPhone": "785150651",
+    "deputyPhone": ""
   }
 ]
