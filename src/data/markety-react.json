@@ -1797,5 +1797,14 @@
     "address": "Radomierzyce 41A, 59-900 Radomierzyce",
     "managerPhone": "786-150-959",
     "deputyPhone": "786-150-651"
+  },
+  {
+  "id" : 258,
+   "name": "Gozdnica",
+    "address": "Żagańska 1A, 68-130 Gozdnica",
+    "managerPhone": "786-150-090",
+    "deputyPhone": "786-150-377"
   }
+  
+  
 ]
