@@ -58,7 +58,9 @@ function App() {
                   {market.deputyPhone}
               </a>
           </div>
-
+          <div className="coordinates">
+            Współrzędne: <p>{market.latitude}, {market.longitude}</p>
+          </div>
           <a
             className="maps-link"
             href={`https://www.google.com/maps?q=${market.latitude},${market.longitude}`}
