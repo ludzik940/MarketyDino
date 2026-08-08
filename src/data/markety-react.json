@@ -2339,5 +2339,14 @@
     "deputyPhone": "786-150-472",
     "latitude": 51.263598,
     "longitude": 15.949014
+  },
+  {
+    "id": 261,
+    "name": "Radomierzyce",
+    "address": "Radomierzyce 41A, 59-900 Radomierzyce",
+    "managerPhone": "786-150-959",
+    "deputyPhone": "786-150-651",
+    "latitude": 51.059657,
+    "longitude": 14.968974
   }
 ]
