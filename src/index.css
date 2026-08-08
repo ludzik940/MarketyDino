@@ -109,6 +109,27 @@ body {
 }
 
 
+.coordinates {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+
+  margin-top: 12px;
+
+  font-size: 13px;
+  color: #777;
+}
+
+.coordinates span:first-child {
+  font-weight: 600;
+  color: #555;
+}
+
+.coordinates span:last-child {
+  font-family: monospace;
+  color: #888;
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 20px 12px;
