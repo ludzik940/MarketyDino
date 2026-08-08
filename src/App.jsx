@@ -59,7 +59,10 @@ function App() {
               </a>
           </div>
           <div className="coordinates">
-            Współrzędne: <p>{market.latitude}, {market.longitude}</p>
+            <span>Współrzędne:</span>
+            <span>
+              {market.latitude}, {market.longitude}
+            </span>
           </div>
           <a
             className="maps-link"
