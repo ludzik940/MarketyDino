@@ -60,12 +60,12 @@ function App() {
           </div>
 
           <a
-              className="maps-link"
-              href={`https://www.google.com/maps?q=${market.latitude},${market.longitude}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📍 Otwórz w Google Maps
+            className="maps-link"
+            href={`https://www.google.com/maps?q=${market.latitude},${market.longitude}`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            📍 Otwórz w Google Maps
           </a>
           </div>
         ))}
