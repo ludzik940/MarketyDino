@@ -2348,5 +2348,14 @@
     "deputyPhone": "786-150-651",
     "latitude": 51.059657,
     "longitude": 14.968974
+  },
+  {
+    "id": 262,
+    "name": "Tomaszów Bolesławiecki",
+    "managerPhone": "786-140-406",
+    "deputyPhone": "",
+    "address": "Tomaszów Bolesławiecki 148C, 59-720 Tomaszów Bolesławiecki",
+    "latitude": 51.2776925,
+    "longitude": 15.6808712
   }
 ]
