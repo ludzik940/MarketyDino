@@ -2357,5 +2357,14 @@
     "address": "Tomaszów Bolesławiecki 148C, 59-720 Tomaszów Bolesławiecki",
     "latitude": 51.2776925,
     "longitude": 15.6808712
+  },
+  {
+    "id": 263,
+    "name": "Lubań 5",
+    "managerPhone": "786-170-499",
+    "deputyPhone": "",
+    "address": "Różana 23, 59-800 Lubań",
+    "latitude": 51.120983,
+    "longitude": 15.302530
   }
 ]
