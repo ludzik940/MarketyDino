@@ -1498,8 +1498,8 @@
     "id": 167,
     "name": "D. Nowe Miasteczko 1",
     "address": "ul. Konopnickiej 1, 67-124 Nowe Miasteczko",
-    "managerPhone": "695-519-715",
-    "deputyPhone": "785-269-302",
+    "managerPhone": "786-115-439",
+    "deputyPhone": "786-115-396",
     "latitude": 51.686881,
     "longitude": 15.737223
   },
@@ -2366,5 +2366,68 @@
     "address": "Różana 23, 59-800 Lubań",
     "latitude": 51.120983,
     "longitude": 15.302530
-  }
+  },
+  {
+    "id": 264,
+    "name": "Żmigród 1",
+    "managerPhone": "609-307-817",
+    "deputyPhone": "695-803-395",
+    "address": "Plac Wojska Polskiego 4, 55-140 Żmigród",
+    "latitude": 51.471740,
+    "longitude": 16.909383
+  },
+  {
+    "id": 265,
+    "name": "Transport",
+    "phones" : [
+      "726-600-159",
+      "887-245-005",
+      "885-395-932",
+      "785-285-398",
+      "885-396-226",
+      "726-600-158",
+      "885-992-719",
+      "785-298-821"
+    ]
+    "address": "Plac Wojska Polskiego 4, 55-140 Żmigród",
+    "latitude": 51.471740,
+    "longitude": 16.909383
+  },
+  {
+    "id": 266,
+    "name": "Wydania Rzeszotary",
+    "phones" : [
+      "785-294-268"
+    ]
+  } 
+  {
+    "id": 267,
+    "name": "Wydania Krotoszyn",
+    "phones" : [
+      "695-511-307"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Transport Bolewicko",
+    "phones" : [
+      "887-343-413"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Dino Monitoring",
+    "phones" : [
+      "695-513-770",
+      "627-379-002"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Opakowania Rzeszotary",
+    "phones" : [
+      "768-570-571",
+      "768-763-923"
+    ]
+  },
 ]
