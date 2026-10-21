@@ -10,21 +10,23 @@
 //   )
 // }
 
-// export default MarketCard
-
-
+// export default 
 function MarketCard({ market }) {
+  const phones = market.phones?.filter(Boolean) ?? [];
+
   return (
     <div className="card">
       <h3>{market.name}</h3>
 
-      <p>{market.address}</p>
+      {market.address && <p>{market.address}</p>}
 
-      {market.phones?.length > 0 ? (
+      {phones.length > 0 ? (
         <ul>
-          {market.phones.map((phone) => (
+          {phones.map((phone) => (
             <li key={phone}>
-              <a href={`tel:${phone}`}>{phone}</a>
+              <a href={`tel:${phone.replace(/[\s-]/g, "")}`}>
+                {phone}
+              </a>
             </li>
           ))}
         </ul>
@@ -33,7 +35,7 @@ function MarketCard({ market }) {
           {market.managerPhone && (
             <p>
               Manager:{" "}
-              <a href={`tel:${market.managerPhone}`}>
+              <a href={`tel:${market.managerPhone.replace(/[\s-]/g, "")}`}>
                 {market.managerPhone}
               </a>
             </p>
@@ -42,7 +44,7 @@ function MarketCard({ market }) {
           {market.deputyPhone && (
             <p>
               Zastępca:{" "}
-              <a href={`tel:${market.deputyPhone}`}>
+              <a href={`tel:${market.deputyPhone.replace(/[\s-]/g, "")}`}>
                 {market.deputyPhone}
               </a>
             </p>
@@ -50,7 +52,10 @@ function MarketCard({ market }) {
         </>
       )}
     </div>
-  )
+  );
 }
 
-export default MarketCard
+export default MarketCard;
+
+
+
