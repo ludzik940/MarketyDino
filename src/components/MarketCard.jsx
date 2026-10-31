@@ -8,40 +8,42 @@ function MarketCard({ market }) {
 
   return (
     <div className="market-card">
-      <h3 className="market-name">{market.name}</h3>
+      <div className="market-name">
+        {market.name}
+      </div>
 
       {market.address && (
-        <p className="market-address">{market.address}</p>
+        <div className="market-address">
+          {market.address}
+        </div>
       )}
 
       {phones.length > 0 ? (
-        <ul>
-          {phones.map((phone) => (
-            <li key={phone}>
-              <a href={`tel:${phone.replace(/[\s-]/g, "")}`}>
-                {phone}
-              </a>
-            </li>
-          ))}
-        </ul>
+        phones.map((phone, index) => (
+          <div className="phone" key={`${phone}-${index}`}>
+            <a href={`tel:${phone.replace(/[\s-]/g, "")}`}>
+              {phone}
+            </a>
+          </div>
+        ))
       ) : (
         <>
           {market.managerPhone && (
-            <p>
+            <div className="phone">
               Kierownik:{" "}
               <a href={`tel:${market.managerPhone}`}>
                 {market.managerPhone}
               </a>
-            </p>
+            </div>
           )}
 
           {market.deputyPhone && (
-            <p>
+            <div className="phone">
               Zastępca:{" "}
               <a href={`tel:${market.deputyPhone}`}>
                 {market.deputyPhone}
               </a>
-            </p>
+            </div>
           )}
         </>
       )}
@@ -49,10 +51,10 @@ function MarketCard({ market }) {
       {hasCoordinates && (
         <>
           <div className="coordinates">
-            <strong>Współrzędne:</strong>
-            <p>
+            <span>Współrzędne:</span>
+            <span>
               {market.latitude}, {market.longitude}
-            </p>
+            </span>
           </div>
 
           <a
