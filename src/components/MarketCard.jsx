@@ -1,24 +1,18 @@
-// function MarketCard({ market }) {
-//   return (
-//     <div className="card">
-//       <h3>{market.name}</h3>
 
-//       <p>{market.address}</p>
-
-//       <p>{market.phone}</p>
-//     </div>
-//   )
-// }
-
-// export default 
 function MarketCard({ market }) {
   const phones = market.phones?.filter(Boolean) ?? [];
 
-  return (
-    <div className="card">
-      <h3>{market.name}</h3>
+  const hasCoordinates =
+    market.latitude != null &&
+    market.longitude != null;
 
-      {market.address && <p>{market.address}</p>}
+  return (
+    <div className="market-card">
+      <h3 className="market-name">{market.name}</h3>
+
+      {market.address && (
+        <p className="market-address">{market.address}</p>
+      )}
 
       {phones.length > 0 ? (
         <ul>
@@ -34,8 +28,8 @@ function MarketCard({ market }) {
         <>
           {market.managerPhone && (
             <p>
-              Manager:{" "}
-              <a href={`tel:${market.managerPhone.replace(/[\s-]/g, "")}`}>
+              Kierownik:{" "}
+              <a href={`tel:${market.managerPhone}`}>
                 {market.managerPhone}
               </a>
             </p>
@@ -44,11 +38,31 @@ function MarketCard({ market }) {
           {market.deputyPhone && (
             <p>
               Zastępca:{" "}
-              <a href={`tel:${market.deputyPhone.replace(/[\s-]/g, "")}`}>
+              <a href={`tel:${market.deputyPhone}`}>
                 {market.deputyPhone}
               </a>
             </p>
           )}
+        </>
+      )}
+
+      {hasCoordinates && (
+        <>
+          <div className="coordinates">
+            <strong>Współrzędne:</strong>
+            <p>
+              {market.latitude}, {market.longitude}
+            </p>
+          </div>
+
+          <a
+            className="maps-link"
+            href={`https://www.google.com/maps?q=${market.latitude},${market.longitude}`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            📍 Otwórz w Google Maps
+          </a>
         </>
       )}
     </div>
@@ -56,6 +70,3 @@ function MarketCard({ market }) {
 }
 
 export default MarketCard;
-
-
-
