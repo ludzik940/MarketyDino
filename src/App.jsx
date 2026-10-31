@@ -4,12 +4,19 @@ import markets from "./data/markety-react.json";
 function App() {
   const [search, setSearch] = useState("");
 
-  const filteredMarkets = markets.filter((market) =>
-    market.name.toLowerCase().includes(search.toLowerCase()) ||
-    market.address.toLowerCase().includes(search.toLowerCase()) ||
-    market.managerPhone.includes(search) ||
-    market.deputyPhone.includes(search)
+  const filteredMarkets = markets.filter((market) => {
+  const query = search.toLowerCase();
+
+  return (
+    (market.name ?? "").toLowerCase().includes(query) ||
+    (market.address ?? "").toLowerCase().includes(query) ||
+    (market.managerPhone ?? "").includes(search) ||
+    (market.deputyPhone ?? "").includes(search) ||
+    (market.phones ?? []).some((phone) =>
+      phone.toLowerCase().includes(query)
+    )
   );
+});
 
   return (
     <div className="container">
