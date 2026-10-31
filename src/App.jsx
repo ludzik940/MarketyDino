@@ -92,7 +92,7 @@
 
 import { useState } from "react";
 import markets from "./data/markety-react.json";
-import MarketCard from "./MarketCard";
+import MarketCard from "./components/MarketCard";
 
 function App() {
   const [search, setSearch] = useState("");
